@@ -12,7 +12,7 @@
 - Purchaser and Data Analyst for El Cap, Inc.
 - Pastry Chef to fund my croissant habit
 
-What am I about?
+## What am I about?
 
 - Direct Communication (I don't beat around the bush)
 - Task Oriented Focus (You line 'em up, and I knock 'em down)
@@ -21,6 +21,10 @@ What am I about?
 
 
 I am currently building a QlockTwo Clock using [jolau's QlockTwo DIY](https://github.com/jolau/QlockTwo_DIY "jolau's QlockTwo DIY")
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-swearingen/)
+
 
 
 <!--
