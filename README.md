@@ -1,6 +1,22 @@
-### Hi there 👋
+# Hi, I'm Melissa Swearingen 👋
 
-I'm a third year student at Oregon State University - Cascades. I am studying computer science with a specialty in software engineering. 
+## Who am I?
+
+- Junior @ Oregon State University Cascades
+- Computer Scientist 
+- Really loves croissants 🥐
+
+## Where have I been?
+
+- Calculus Tutor for OSU-C
+- Purchaser and Data Analyst for El Cap, Inc.
+- Pastry Chef to fund my croissant habit
+
+What am I about?
+
+- Direct Communication (I don't beat around the bush)
+- Task Oriented Focus (You line 'em up, and I knock 'em down)
+- Big Picture Thinking (I like to know what I'm working towards)
 
 
 
