@@ -1,29 +1,29 @@
 # Hi, I'm Missy 👋
 
-## Who am I?
+### Who am I?
 
 - Junior @ Oregon State University Cascades
 - Computer Scientist 
 - Really loves croissants 🥐
 
-## Where have I been?
+### Where have I been?
 
 - Calculus Tutor for OSU-C
 - Purchaser and Data Analyst for El Cap, Inc.
 - Pastry Chef (to fund my croissant habit)
 
-## What am I about?
+### What am I about?
 
 - Direct Communication (I don't beat around the bush)
 - Task Oriented Focus (You line 'em up, and I knock 'em down)
 - Big Picture Thinking (I like to know what I'm working towards)
 
-## What am I working on?
+### What am I working on?
 
 - I'm currently wading through a small mountain of homework
 - I am also building a replica of a QlockTwo Clock using [jolau's QlockTwo DIY](https://github.com/jolau/QlockTwo_DIY "jolau's QlockTwo DIY")
 
-## What will I do next?
+### What will I do next?
 
 - Try to take over the world . . . <img src="https://i.imgur.com/JZDlBMv.png" title="source: imgur.com" alt="Brain from Pinky and the Brain" style="height: 20px">
 
