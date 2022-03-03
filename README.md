@@ -1,4 +1,4 @@
-# Hi, I'm Melissa Swearingen 👋
+# Hi, I'm Missy 👋
 
 ## Who am I?
 
@@ -30,11 +30,11 @@
 <br>
 <br>
 
-<style>
+<!-- <style>
     .badges {
         text-align: center;
     }
-</style>
+</style> -->
 
 <div class="badges">
     <a href="https://drive.google.com/file/d/1WCImbAc6wnmm8SX4ndXMtszj4czgW8gt/view?usp=sharing"><img src="https://i.imgur.com/ZAzp0gL.png" alt="Melissa Swearingen's Resume" style="height: 28px"></a>
