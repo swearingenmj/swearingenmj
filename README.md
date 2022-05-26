@@ -3,7 +3,7 @@
 ### Who am I?
 
 - Junior @ Oregon State University Cascades
-- Computer Scientist 
+- New to Computer Science 
 - Really loves croissants 🥐
 
 ### Where have I been?
