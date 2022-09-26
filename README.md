@@ -2,12 +2,13 @@
 
 ### Who am I?
 
-- Junior @ Oregon State University Cascades
+- Senior @ Oregon State University Cascades
 - New to Computer Science 
 - Really loves croissants 🥐
 
 ### Where have I been?
 
+- Embedded Software Intern @ Wind River Software
 - Calculus Tutor for OSU-C
 - Purchaser and Data Analyst for El Cap, Inc.
 - Pastry Chef (to fund my croissant habit)
