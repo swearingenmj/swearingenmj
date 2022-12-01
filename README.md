@@ -22,6 +22,7 @@
 ### What am I working on?
 
 - I'm currently wading through a small mountain of homework
+- I am starting my M.Eng. next term (Wish me luck!)
 - I am also building a replica of a QlockTwo Clock using [jolau's QlockTwo DIY](https://github.com/jolau/QlockTwo_DIY "jolau's QlockTwo DIY")
 
 ### What will I do next?
@@ -38,7 +39,7 @@
 </style> -->
 
 <div class="badges">
-    <a href="https://drive.google.com/file/d/1WCImbAc6wnmm8SX4ndXMtszj4czgW8gt/view?usp=sharing"><img src="https://i.imgur.com/ZAzp0gL.png" alt="Melissa Swearingen's Resume" style="height: 28px"></a>
+    <a href="https://drive.google.com/file/d/1pnKV480asd9eDl1NHNjTf0QvJJ_SBj1_/view?usp=sharing"><img src="https://i.imgur.com/ZAzp0gL.png" alt="Melissa Swearingen's Resume" style="height: 28px"></a>
     <a href="https://www.linkedin.com/in/melissa-swearingen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Melissa Swearingen's LinkedIn Badge"></a>
 </div>
 
