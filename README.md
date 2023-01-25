@@ -3,6 +3,7 @@
 ### Who am I?
 
 - Senior @ Oregon State University Cascades
+- Accelerated Master's Program Student @ OSU
 - New to Computer Science 
 - Really loves croissants 🥐
 
@@ -39,7 +40,7 @@
 </style> -->
 
 <div class="badges">
-    <a href="https://drive.google.com/file/d/1pnKV480asd9eDl1NHNjTf0QvJJ_SBj1_/view?usp=sharing"><img src="https://i.imgur.com/ZAzp0gL.png" alt="Melissa Swearingen's Resume" style="height: 28px"></a>
+    <a href="https://drive.google.com/file/d/18b7xc_fAz8oiPSKoNCt5xM0oXJRvTL4_/view?usp=sharing"><img src="https://i.imgur.com/ZAzp0gL.png" alt="Melissa Swearingen's Resume" style="height: 28px"></a>
     <a href="https://www.linkedin.com/in/melissa-swearingen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Melissa Swearingen's LinkedIn Badge"></a>
 </div>
 
