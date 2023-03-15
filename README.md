@@ -23,7 +23,7 @@
 ### What am I working on?
 
 - I'm currently wading through a small mountain of homework
-- I am starting my M.Eng. next term (Wish me luck!)
+- I am starting my M.S. (Wish me luck!)
 - I am also building a replica of a QlockTwo Clock using [jolau's QlockTwo DIY](https://github.com/jolau/QlockTwo_DIY "jolau's QlockTwo DIY")
 
 ### What will I do next?
