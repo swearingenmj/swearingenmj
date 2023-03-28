@@ -11,7 +11,6 @@
 
 - Embedded Software Intern @ Wind River Software
 - Calculus Tutor for OSU-C
-- Purchaser and Data Analyst for El Cap, Inc.
 - Pastry Chef (to fund my croissant habit)
 
 ### What am I about?
@@ -24,7 +23,7 @@
 
 - I'm currently wading through a small mountain of homework
 - I am starting my M.S. (Wish me luck!)
-- I am also building a replica of a QlockTwo Clock using [jolau's QlockTwo DIY](https://github.com/jolau/QlockTwo_DIY "jolau's QlockTwo DIY")
+- I am also working on a personal website: [missy.is](https://missy.is/ "Hey, it's Missy!")
 
 ### What will I do next?
 
@@ -40,7 +39,7 @@
 </style> -->
 
 <div class="badges">
-    <a href="https://drive.google.com/file/d/18b7xc_fAz8oiPSKoNCt5xM0oXJRvTL4_/view?usp=sharing"><img src="https://i.imgur.com/ZAzp0gL.png" alt="Melissa Swearingen's Resume" style="height: 28px"></a>
+    <a href="https://drive.google.com/file/d/1lJ6Z5ZiBbB69SxXa1qilzlyofEBarv6n/view?usp=sharing"><img src="https://i.imgur.com/ZAzp0gL.png" alt="Melissa Swearingen's Resume" style="height: 28px"></a>
     <a href="https://www.linkedin.com/in/melissa-swearingen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Melissa Swearingen's LinkedIn Badge"></a>
 </div>
 
