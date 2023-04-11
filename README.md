@@ -39,8 +39,9 @@
 </style> -->
 
 <div class="badges">
-    <a href="https://drive.google.com/file/d/1lJ6Z5ZiBbB69SxXa1qilzlyofEBarv6n/view?usp=sharing"><img src="https://i.imgur.com/ZAzp0gL.png" alt="Melissa Swearingen's Resume" style="height: 28px"></a>
+    <a href="https://drive.google.com/file/d/1M6oilk2ZnGdbfSK-ZH6Xwr84hJQDdTbR/view?usp=sharing"><img src="https://i.imgur.com/ZAzp0gL.png" alt="Melissa Swearingen's Resume" style="height: 28px"></a>
     <a href="https://www.linkedin.com/in/melissa-swearingen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Melissa Swearingen's LinkedIn Badge"></a>
+    <a href="http://missy.is/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Melissa Swearinen's Website"></a>
 </div>
 
 
